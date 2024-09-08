@@ -29,7 +29,7 @@ To use these algorithms:
    ```
    python3 <algorithm_name>.py
    ```
-   Replace `<algorithm_name>` with the name of the script you want to run (e.g., `fcfs.py`, `sjf.py`, etc.)
+   Replace `<algorithm_name>` with the name of the script you want to run (e.g., `priority_first.py`, `sjf.py`, etc.)
 
 ## Contributing
 
